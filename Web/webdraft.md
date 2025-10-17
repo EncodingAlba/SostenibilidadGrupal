@@ -27,8 +27,20 @@ Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida c
 - ¿Era sostenible?
 
 ## 1.3. Obtención de energía
-- Fuentes de energía utilizadas.
-- Impacto ambiental.
+    
+
+En la civilización Sumeria, la obtención de energía estaba basada en fuentes naturales y locales, lo que podemos considerar una forma temprana de sostenibilidad.
+Sus fuentes de energía principales provenían de:
+
+·Trabajo humano: fundamental para cultivar la tierra, construir canales, templos y realizar tareas diarias, aprovechando la fuerza de las personas de manera directa. Este trabajo organizado permitió que las comunidades sumerias fueran productivas y autosuficientes.
+
+·Fuerza animal: empleaban animales para arar los campos y transportar mercancías. Esto aumentaba la eficiencia en la agricultura y el comercio.
+Los animales eran como “máquinas de energía biológica”: transformaban alimento en fuerza de trabajo, permitiendo hacer más cosas sin depender de recursos externos limitados.
+
+·Energía hidráulica: desarrollaron sistemas de canales y riego que aprovechaban el flujo de agua de los ríos para mantener la agricultura y abastecer las ciudades. Este uso del agua como fuente de energía demuestra un aprovechamiento inteligente de los recursos naturales, contribuyendo a la sostenibilidad de la sociedad sumeria.
+
+
+Gracias a estas fuentes de energía, los sumerios pudieron desarrollar una civilización organizada, eficiente y capaz de sostener a grandes poblaciones, demostrando cómo el uso equilibrado de recursos locales puede favorecer la sostenibilidad a largo plazo.
 
 ## 1.4. Posibilidades de supervivencia
 - ¿Cómo se adaptaban?
