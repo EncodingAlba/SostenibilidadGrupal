@@ -21,6 +21,11 @@ Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida c
 
 ![Introducción a los Sumerios](IntroSumerios.png)
 
+(MAPA SOBRE LA ZONA DE ASENTAMIENTO SUMERIO EN LA ANTIGUA MESOPOTAMIA)
+<p align="center">
+  <img src="mapa.PNG" alt="Descripción" width="700">
+</p>
+
 
 ## 1.2. Obtención de recursos
 - ¿Cómo obtenían materiales, alimentos, agua, etc.?
