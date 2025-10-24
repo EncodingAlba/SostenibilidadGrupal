@@ -47,21 +47,25 @@ Gracias a estas fuentes de energía, los sumerios pudieron desarrollar una civil
 - ¿Qué riesgos enfrentaban?
 - ¿Qué factores llevaron a su continuidad o declive?
 
----
+## 1.5. Análisis con respecto a los ODS (Objetivos de Desarrollo Sostenible)
 
-# Sección 2: Análisis con respecto a los ODS (Objetivos de Desarrollo Sostenible)
-
-## 2.1. ODS relevantes para el caso
+### 1.5.1. ODS relevantes para el caso
 - Lista de ODS que se pueden relacionar con esta civilización o sistema.
 
-## 2.2. Análisis, reflexión y políticas
+### 1.5.2. Análisis, reflexión y políticas
 - ¿Implementaron medidas sostenibles?
 - ¿Qué problemas surgieron?
 - ¿Qué decisiones se tomaron o no se tomaron?
 
-## 2.3. Consecuencias y transición hacia la (in)sostenibilidad
+### 1.5.3. Consecuencias y transición hacia la (in)sostenibilidad
 - ¿Qué llevó a la insostenibilidad?
 - ¿Podían haber hecho algo diferente?
+
+---
+
+# Sección 2: Economía circular y acciones sostenibles
+
+## 2.1. Acción personal o profesional sostenible:
 
 ---
 
