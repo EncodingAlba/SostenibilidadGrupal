@@ -60,6 +60,31 @@ Gracias a estas fuentes de energía, los sumerios pudieron desarrollar una civil
 ### 1.5.2. Análisis, reflexión y políticas
 - ¿Implementaron medidas sostenibles?
 - ¿Qué problemas surgieron?
+  #### Problemas con Sostenibilidad
+
+Los Sumerios fueron pioneros en el uso del agua para la agricultura, pero con el tiempo surgieron varios problemas de sostenibilidad que afectaron su producción y sus ciudades.
+
+#### 1º Salinización del suelo
+
+- Al usar sistemas de riego intensivos, el agua al evaporarse dejaba sales en la tierra.
+- Como el clima era muy cálido y seco, la sal se acumulaba cada vez más.
+- Con los años, los suelos perdieron fertilidad y muchas zonas se volvieron difíciles de cultivar.
+
+#### 2º Sequías y variaciones del clima
+
+- Dependían totalmente del agua de los ríos Tigris y Éufrates.
+- Cuando había menos lluvias o los ríos bajaban su nivel, los cultivos se secaban.
+- Las sequías y el calor aumentaban los efectos de la salinización.
+- Además, el uso continuo de la tierra sin descanso reducía su capacidad para retener agua.
+
+#### 3º Crisis Agrícola
+
+- La combinación de suelos salinos, sequías y sobreexplotación redujo la productividad.
+- Había menos cosechas y escasez de alimentos.
+- Algunas zonas quedaron abandonadas y la población tuvo que desplazarse.
+
+Estos tres problemas debilitaron varias ciudades sumerias.
+
 - ¿Qué decisiones se tomaron o no se tomaron?
 
 ### 1.5.3. Consecuencias y transición hacia la (in)sostenibilidad
