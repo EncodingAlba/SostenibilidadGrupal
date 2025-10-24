@@ -91,6 +91,77 @@ Estos tres problemas debilitaron varias ciudades sumerias.
 - ¿Qué llevó a la insostenibilidad?
 - ¿Podían haber hecho algo diferente?
 
+
+## 1.6. Los desafíos de la civilización sumeria
+
+### 1.6.1 Entorno natural y riesgos
+
+ - La baja Mesopotamia ofrecía suelos fértiles pero un clima seco y ríos con caudal impredecible
+
+ - Los sumerios enfrentaron inundaciones, sequías y salinización del suelo, que amenazaban su agricultura y sus ciudades
+
+ - Para sobrevivir, desarrollaron ingeniería hidráulica, pero el exceso de riego provocó problemas de fertilidad a largo plazo
+
+ <p align="center">
+  <img src="Sumer_mapa.jpg" alt="Mapa de la región de Sumer" width="600">
+  <br>
+  <em>Mapa de Sumer: ubicación de donde vivían los sumerios y sus principales ríos</em>
+</p>
+
+
+### 1.6.2 Entorno natural y riesgos
+
+ - La escasez de recursos y la concentración del poder en templos y élites provocaron tensiones internas y rivalidades entre ciudades-estado
+
+ - Los conflictos eran un factor adicional que dificultaba la sostenibilidad y la estabilidad
+
+
+### 1.6.3 Mitología y visión del mundo
+
+ - La religión sumeria conectaba naturaleza y divinidad
+
+ - Los fenómenos naturales eran vistos como castigos o pruebas de los dioses, y los sacerdotes dirigían la vida política y económica
+
+<p align="center">
+  <img src="gilgamesh.jpg" alt="Gilgamesh" width="450">
+  <br>
+  <em>Gilgamesh enfrentando desafíos naturales y sociales</em>
+</p>
+
+ - El mito de Gilgamesh: el rey de Uruk busca la inmortalidad enfrentando desiertos, monstruos y diluvios, aprendiendo que los humanos tienen límites y deben aceptar su destino, dejando un legado a través de sus obras
+
+ - Este mito ilustra cómo los sumerios interpretaban sus desafíos naturales y sociales, y cómo los enfrentaban con ingenio y cooperación
+
+
+### 1.6.4 Innovaciones y límites del progreso
+
+ - Crearon canales de riego, templos y sistemas de administración para gestionar recursos y población
+
+<p align="center">
+  <img src="canales_riego.jpg" alt="Canales de riego sumerios" width="500">
+  <br>
+  <em>Canales de riego sumerios: ingenio frente a desafíos naturales</em>
+</p>
+
+ - Estas innovaciones aumentaron la productividad y la organización, pero también intensificaron problemas como la salinización y el agotamiento de suelos
+
+ - Enseñanza: el progreso humano necesita equilibrio con la naturaleza
+
+
+### 1.6.5 Decadencia y legado
+
+ - Hacia el 2000 a.C., las ciudades sumerias sufrieron declive por factores ambientales y sociales
+
+ - Su legado incluye escritura cuneiforme, zigurats y mitos que influyeron en civilizaciones posteriores
+
+<p align="center">
+  <img src="zigurat.jpg" alt="Zigurat Sumerio" width="400">
+  <br>
+  <em>Zigurat: templo sumerio, centro religioso y administrativo</em>
+</p>
+
+ - Sirve como advertencia y enseñanza sobre sostenibilidad y gestión de recursos: sin equilibrio, incluso una civilización avanzada puede colapsar
+
 ---
 
 # Sección 2: Economía circular y acciones sostenibles
