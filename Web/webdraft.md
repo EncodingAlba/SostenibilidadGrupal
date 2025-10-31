@@ -29,7 +29,9 @@ Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida c
 
 ## 1.2. Obtención de recursos
 - ¿Cómo obtenían materiales, alimentos, agua, etc.?
+Los sumerios obtenían recursos de muchas maneras, mantenían una producción de cebada, garbanzos, lentejas, mijo, trigo, nabo, dátiles, cebolla, ajo, lechuga, puerro, amapola y mostaza. También criaban vacas, ovejas, cabras y cerdos. Además, usaban bueyes como opción principal en el trabajo de carga y burros como animales de transporte. Los sumerios pescaban peces en los ríos Tigris y Éufrates y en los canales, y cazaban aves en sus orillas y desembocaduras pantanosas.
 - ¿Era sostenible?
+La agricultura sumeria dependía mucho del riego, efectuándose a través del uso de canales, estanques, diques y depósitos de agua. Las frecuentes y violentas inundaciones del Tigris y, en menor medida, del Éufrates hacían que los canales necesitaran de reparación frecuente y de la continua extracción del limo, y el reemplazo continuo de los marcadores de inspección y mojones. El gobierno ordenaba a esclavos, condenados a trabajos forzados, y determinados ciudadanos la tarea de trabajar en los canales, aunque los ricos podían excluirse de esta tarea.
 
 ## 1.3. Obtención de energía
     
