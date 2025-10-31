@@ -6,6 +6,8 @@ title: "Sección 2: Economía circular y acciones sostenibles"
 
 ### Acción de Alba: Guardar el agua fría que sale de la ducha mientras esperas a que se caliente para regar o fregar.
 
+### Acción de Gilber: Reforestación para mantener una deforestación sostenible a lo largo del tiempo. (Técnica Daisugi)
+
 
 
 
