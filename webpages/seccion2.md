@@ -8,7 +8,8 @@ title: "Sección 2: Economía circular y acciones sostenibles"
 
 ### Acción de Gilber: Reforestación para mantener una deforestación sostenible a lo largo del tiempo. (Técnica Daisugi)
 
-
+### Acción de Alvaro : Reciclaje de residuos electrónicos 
+Implementar programas de **reciclaje para equipos obsoletos** asegura que los componentes se **dispongan y reciclen de manera responsable**.
 
 
 
