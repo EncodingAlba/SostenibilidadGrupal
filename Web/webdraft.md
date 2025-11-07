@@ -23,7 +23,7 @@ Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida c
 
 (MAPA SOBRE LA ZONA DE ASENTAMIENTO SUMERIO EN LA ANTIGUA MESOPOTAMIA)
 <p align="center">
-  <img src="mapa.PNG" alt="Descripción" width="700">
+  <img src="./webdraft.md/mapa.PNG" alt="Descripción" width="700">
 </p>
 
 
