@@ -1,2 +1,4 @@
 title: "Web de la Asignatura"
 theme: jekyll-theme-cayman
+include:
+  - webpages/webimages
