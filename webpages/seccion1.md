@@ -12,9 +12,13 @@ Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida c
 </p>
 
 ## 1.2. Obtención de recursos
-- ¿Cómo obtenían materiales, alimentos, agua, etc.?
+
+### ¿Cómo obtenían materiales, alimentos, agua, etc.?
+
 Los sumerios obtenían recursos de muchas maneras, mantenían una producción de cebada, garbanzos, lentejas, mijo, trigo, nabo, dátiles, cebolla, ajo, lechuga, puerro, amapola y mostaza. También criaban vacas, ovejas, cabras y cerdos. Además, usaban bueyes como opción principal en el trabajo de carga y burros como animales de transporte. Los sumerios pescaban peces en los ríos Tigris y Éufrates y en los canales, y cazaban aves en sus orillas y desembocaduras pantanosas.
-- ¿Era sostenible?
+
+### ¿Era sostenible?
+
 La agricultura sumeria dependía mucho del riego, efectuándose a través del uso de canales, estanques, diques y depósitos de agua. Las frecuentes y violentas inundaciones del Tigris y, en menor medida, del Éufrates hacían que los canales necesitaran de reparación frecuente y de la continua extracción del limo, y el reemplazo continuo de los marcadores de inspección y mojones. El gobierno ordenaba a esclavos, condenados a trabajos forzados, y determinados ciudadanos la tarea de trabajar en los canales, aunque los ricos podían excluirse de esta tarea.
 
 ## 1.3. Obtención de energía
@@ -22,12 +26,16 @@ La agricultura sumeria dependía mucho del riego, efectuándose a través del us
 En la civilización Sumeria, la obtención de energía estaba basada en fuentes naturales y locales, lo que podemos considerar una forma temprana de sostenibilidad.
 Sus fuentes de energía principales provenían de:
 
-·Trabajo humano: fundamental para cultivar la tierra, construir canales, templos y realizar tareas diarias, aprovechando la fuerza de las personas de manera directa. Este trabajo organizado permitió que las comunidades sumerias fueran productivas y autosuficientes.
+### Trabajo humano: 
 
-·Fuerza animal: empleaban animales para arar los campos y transportar mercancías. Esto aumentaba la eficiencia en la agricultura y el comercio.
+Fundamental para cultivar la tierra, construir canales, templos y realizar tareas diarias, aprovechando la fuerza de las personas de manera directa. Este trabajo organizado permitió que las comunidades sumerias fueran productivas y autosuficientes.
+
+### Fuerza animal:
+Empleaban animales para arar los campos y transportar mercancías. Esto aumentaba la eficiencia en la agricultura y el comercio.
 Los animales eran como “máquinas de energía biológica”: transformaban alimento en fuerza de trabajo, permitiendo hacer más cosas sin depender de recursos externos limitados.
 
-·Energía hidráulica: desarrollaron sistemas de canales y riego que aprovechaban el flujo de agua de los ríos para mantener la agricultura y abastecer las ciudades. Este uso del agua como fuente de energía demuestra un aprovechamiento inteligente de los recursos naturales, contribuyendo a la sostenibilidad de la sociedad sumeria.
+### Energía hidráulica: 
+Desarrollaron sistemas de canales y riego que aprovechaban el flujo de agua de los ríos para mantener la agricultura y abastecer las ciudades. Este uso del agua como fuente de energía demuestra un aprovechamiento inteligente de los recursos naturales, contribuyendo a la sostenibilidad de la sociedad sumeria.
 
 Gracias a estas fuentes de energía, los sumerios pudieron desarrollar una civilización organizada, eficiente y capaz de sostener a grandes poblaciones, demostrando cómo el uso equilibrado de recursos locales puede favorecer la sostenibilidad a largo plazo.
 

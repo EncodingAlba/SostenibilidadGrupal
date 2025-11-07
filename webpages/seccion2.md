@@ -4,7 +4,7 @@ title: "Sección 2: Economía circular y acciones sostenibles"
 
 ## 2.1. Acción personal o profesional sostenible:
 
-### Acción de Alba: Guardar el agua fría que sale de la ducha mientras esperas a que salga caliente para tirar del inodoro, fregar o regar.
+### 2.1.1 Acción de Alba: Guardar el agua fría que sale de la ducha mientras esperas a que salga caliente para tirar del inodoro, fregar o regar.
 
 El objetivo principal de esta acción es **ahorrar y reutilizar litros de agua potable** que normalmente se desperdician en cada ducha mientras esperamos a que el agua salga caliente.
 
