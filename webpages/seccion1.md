@@ -5,10 +5,10 @@ title: "Sección 1: Los Sumerios y su relación con la sostenibilidad"
 ## 1.1. Civilización elegida: Los Sumerios
 Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida como Sumer, atraídos por sus ricos suelos y la disponibilidad de agua. El origen de este pueblo es un tema de debate académico conocido como la "cuestión sumeria"; mientras que algunas teorías postulan una migración, la evidencia arqueológica sugiere una clara continuidad cultural desde el período de El-Obait, lo que desafía la idea de una llegada súbita. Antes del 3000 a. C., fundaron ciudades-estado independientes, estableciendo una de las primeras civilizaciones con gobierno centralizado, religión organizada y, de manera crucial, la invención de la escritura, sentando así las bases para el desarrollo cultural y político del Cercano Oriente antiguo.
 
-![Introducción a los Sumerios](webimages/IntroSumerios.png)
+![Introducción a los Sumerios](/webimages/IntroSumerios.png)
 (MAPA SOBRE LA ZONA DE ASENTAMIENTO SUMERIO EN LA ANTIGUA MESOPOTAMIA)
 <p align="center">
-  <img src="webimages/mapa.PNG" alt="Descripción" width="700">
+  <img src="/webimages/mapa.PNG" alt="Descripción" width="700">
 </p>
 
 ## 1.2. Obtención de recursos
