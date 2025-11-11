@@ -4,7 +4,20 @@ title: "Sección 3: Aplicación al Sector Productivo (Informática)"
 
 ## 3.1. Conexión entre la civilización/sistema y nuestro sector
 - ¿Qué aprendemos de las secciones anteriores?
+### Uso sostenible de los recursos
+
+Aprendemos que el **uso intensivo y sin planificación de los recursos** puede llevar al **agotamiento** y al **colapso del sistema**.  
+La **sostenibilidad** requiere **equilibrar el aprovechamiento con la regeneración**, anticipando los límites y adaptándose a los cambios del entorno.
+
 - ¿Qué paralelismos hay con la informática?
+
+### Sostenibilidad en la informática
+
+En **informática**, los recursos también son **limitados** (energía, materiales, capacidad de procesamiento y datos).  
+Si abusamos del **hardware**, del **consumo energético** o generamos **exceso de residuos electrónicos**, el sistema se vuelve **insostenible**.  
+
+Al igual que los **sumerios agotaron sus suelos**, la **industria tecnológica** puede “salinizar” su entorno si no gestiona eficientemente sus **recursos** y su **impacto ambiental**.
+
 
 ## 3.2. Productos “verdes” o sostenibles
 
