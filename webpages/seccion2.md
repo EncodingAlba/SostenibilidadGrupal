@@ -32,7 +32,25 @@ Si todos los hogares españoles aplicaran esta medida, el ahorro total podría s
 Dado que la **escasez hídrica** es uno de los principales retos ambientales de las próximas décadas, se trata de una acción **simple, de bajo coste e impacto positivo real** que contribuye directamente al uso responsable del agua.
 
 
-### Acción de Gilber: Reforestación para mantener una deforestación sostenible a lo largo del tiempo. (Técnica Daisugi)
+### 2.1.2 Acción de Gilber: Reforestación para mantener una deforestación sostenible a lo largo del tiempo. (Técnica Daisugi)
+
+El objetivo principal de esta acción es  producir madera de alta calidad, perfectamente recta y sin nudos de una manera continua, sin necesidad de talar el árbol madre, de esta forma asegurar suministro a largo plazo.
+
+Podemos analizar la acción basándonos en cuatro características clave:
+
+#### 1. Facilidad de adopción
+Baja. Esta técnica requiere conocimientos forestales especializados, una poda meticulosa cada 2/4 años y una visión a largo plazo, similar al arte del bonsái a gran escala. No es una técnica forestal convencional.
+
+#### 2. Coste
+Alto, tanto en inversión inicial como en mantenimiento. El tiempo de crecimiento hasta la primera cosecha es prolongado, y requiere mano de obra intensiva y especializada para el cuidado continuo del árbol madre y los brotes.
+
+#### 3. Beneficio
+Significativo a largo plazo. Produce madera con propiedades físicas superiores (más flexible y densa) y con un valor estético premium, muy demandada para construcciones específicas como vigas de techos. Además, garantiza un suministro renovable durante siglos a partir del mismo árbol.
+
+#### 4. Impacto ambiental real
+Extremadamente positivo y sostenible. Al no talar el árbol principal, se preserva el ecosistema forestal, se evita la deforestación y se permite que los árboles madre continúen absorbiendo y almacenando carbono durante cientos de años, contribuyendo a mitigar el cambio climático.
+
+
 
 ### Acción de Alvaro : Reciclaje de residuos electrónicos 
 **reciclaje para equipos obsoletos** asegura que los componentes se **reciclen de manera responsable**. Recuperando los metales valioso, especialmente el oro. Evitando su extracción minera.
