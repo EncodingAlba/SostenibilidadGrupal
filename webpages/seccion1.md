@@ -2,6 +2,39 @@
 title: "Sección 1: Los Sumerios y su relación con la sostenibilidad"
 ---
 
+[🏠 Inicio](../index.md) | [⬅ Sección anterior](equipo.md) | [Sección siguiente ➡](seccion2.md)
+
+---
+
+- [1.1. Civilización elegida: Los Sumerios](#11-civilización-elegida-los-sumerios)
+- [1.2. Obtención de recursos](#12-obtención-de-recursos)
+  - [¿Cómo obtenían materiales, alimentos, agua, etc.?](#cómo-obtenían-materiales-alimentos-agua-etc)
+  - [¿Era sostenible?](#era-sostenible)
+- [1.3. Obtención de energía](#13-obtención-de-energía)
+  - [Trabajo humano:](#trabajo-humano)
+  - [Fuerza animal:](#fuerza-animal)
+  - [Energía hidráulica:](#energía-hidráulica)
+- [1.4. Posibilidades de supervivencia](#14-posibilidades-de-supervivencia)
+  - [¿Cómo se adaptaban?](#cómo-se-adaptaban)
+  - [¿Qué riesgos enfrentaban?](#qué-riesgos-enfrentaban)
+  - [¿Qué factores llevaron a su continuidad o declive?](#qué-factores-llevaron-a-su-continuidad-o-declive)
+  - [Reflexión final](#reflexión-final)
+- [1.5. Análisis con respecto a los ODS (Objetivos de Desarrollo Sostenible)](#15-análisis-con-respecto-a-los-ods-objetivos-de-desarrollo-sostenible)
+  - [1.5.1. ODS relevantes para el caso](#151-ods-relevantes-para-el-caso)
+  - [1.5.2. Análisis, reflexión y políticas](#152-análisis-reflexión-y-políticas)
+    - [Problemas con Sostenibilidad](#problemas-con-sostenibilidad)
+      - [1º Salinización del suelo](#1º-salinización-del-suelo)
+      - [2º Sequías y variaciones del clima](#2º-sequías-y-variaciones-del-clima)
+      - [3º Crisis Agrícola](#3º-crisis-agrícola)
+  - [1.5.3. Consecuencias y transición hacia la (in)sostenibilidad](#153-consecuencias-y-transición-hacia-la-insostenibilidad)
+- [1.6. Los desafíos de la civilización sumeria](#16-los-desafíos-de-la-civilización-sumeria)
+  - [1.6.1 Entorno natural y riesgos](#161-entorno-natural-y-riesgos)
+  - [1.6.2 Entorno natural y riesgos](#162-entorno-natural-y-riesgos)
+  - [1.6.3 Mitología y visión del mundo](#163-mitología-y-visión-del-mundo)
+  - [1.6.4 Innovaciones y límites del progreso](#164-innovaciones-y-límites-del-progreso)
+  - [1.6.5 Decadencia y legado](#165-decadencia-y-legado)
+
+
 ## 1.1. Civilización elegida: Los Sumerios
 Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida como Sumer, atraídos por sus ricos suelos y la disponibilidad de agua. El origen de este pueblo es un tema de debate académico conocido como la "cuestión sumeria"; mientras que algunas teorías postulan una migración, la evidencia arqueológica sugiere una clara continuidad cultural desde el período de El-Obait, lo que desafía la idea de una llegada súbita. Antes del 3000 a. C., fundaron ciudades-estado independientes, estableciendo una de las primeras civilizaciones con gobierno centralizado, religión organizada y, de manera crucial, la invención de la escritura, sentando así las bases para el desarrollo cultural y político del Cercano Oriente antiguo.
 
@@ -165,3 +198,7 @@ Estos tres problemas debilitaron varias ciudades sumerias.
 </p>
 
  - Sirve como advertencia y enseñanza sobre sostenibilidad y gestión de recursos: sin equilibrio, incluso una civilización avanzada puede colapsar
+
+---
+
+[🏠 Inicio](../index.md) | [⬅ Sección anterior](equipo.md) | [Sección siguiente ➡](seccion2.md)

@@ -2,6 +2,30 @@
 title: "Sección 2: Economía circular y acciones sostenibles"
 ---
 
+[🏠 Inicio](../index.md) | [⬅ Sección anterior](seccion1.md) | [Sección siguiente ➡](seccion3.md)
+
+---
+
+- [2.1. Acción personal o profesional sostenible:](#21-acción-personal-o-profesional-sostenible)
+  - [2.1.1 Acción de Alba: Guardar el agua fría que sale de la ducha mientras esperas a que salga caliente para tirar del inodoro, fregar o regar.](#211-acción-de-alba-guardar-el-agua-fría-que-sale-de-la-ducha-mientras-esperas-a-que-salga-caliente-para-tirar-del-inodoro-fregar-o-regar)
+    - [1. Facilidad de adopción](#1-facilidad-de-adopción)
+    - [2. Coste](#2-coste)
+    - [3. Beneficio](#3-beneficio)
+    - [4. Impacto ambiental real](#4-impacto-ambiental-real)
+  - [2.1.2 Acción de Gilber: Reforestación para mantener una deforestación sostenible a lo largo del tiempo. (Técnica Daisugi)](#212-acción-de-gilber-reforestación-para-mantener-una-deforestación-sostenible-a-lo-largo-del-tiempo-técnica-daisugi)
+    - [1. Facilidad de adopción](#1-facilidad-de-adopción-1)
+    - [2. Coste](#2-coste-1)
+    - [3. Beneficio](#3-beneficio-1)
+    - [4. Impacto ambiental real](#4-impacto-ambiental-real-1)
+  - [Acción de Alvaro : Reciclaje de residuos electrónicos](#acción-de-alvaro--reciclaje-de-residuos-electrónicos)
+  - [Reciclaje de residuos electrónicos y recuperación de metales valiosos](#reciclaje-de-residuos-electrónicos-y-recuperación-de-metales-valiosos)
+- [Análisis de la acción en cuatro puntos clave](#análisis-de-la-acción-en-cuatro-puntos-clave)
+  - [1. Facilidad de adopción](#1-facilidad-de-adopción-2)
+  - [2. Coste](#2-coste-2)
+  - [3. Beneficio](#3-beneficio-2)
+  - [4. Impacto ambiental real](#4-impacto-ambiental-real-2)
+
+
 ## 2.1. Acción personal o profesional sostenible:
 
 ### 2.1.1 Acción de Alba: Guardar el agua fría que sale de la ducha mientras esperas a que salga caliente para tirar del inodoro, fregar o regar.
@@ -94,6 +118,6 @@ Si más personas **reciclaran sus aparatos electrónicos**, se **reducirían mil
 
 Es una acción **muy sencilla, de bajo coste y con un impacto ambiental positivo real**, que **ayuda a cerrar el ciclo de los materiales** y a avanzar hacia una **economía más circular y sostenible**.
 
+---
 
-
-
+[🏠 Inicio](../index.md) | [⬅ Sección anterior](seccion1.md) | [Sección siguiente ➡](seccion3.md)
