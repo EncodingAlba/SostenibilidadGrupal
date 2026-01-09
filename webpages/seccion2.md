@@ -76,8 +76,8 @@ Extremadamente positivo y sostenible. Al no talar el árbol principal, se preser
 
 
 
-### Acción de Alvaro : Reciclaje de residuos electrónicos 
-**reciclaje para equipos obsoletos** asegura que los componentes se **reciclen de manera responsable**. Recuperando los metales valioso, especialmente el oro. Evitando su extracción minera.
+### 2.1.3 Acción de Alvaro : Reciclaje de residuos electrónicos 
+**reciclaje para equipos obsoletos** asegura que los componentes se reciclen de manera responsable. Recuperando los metales valioso, especialmente el oro. Evitando su extracción minera.
 
 ### Reciclaje de residuos electrónicos y recuperación de metales valiosos
 
@@ -106,7 +106,7 @@ El **reciclaje electrónico** suele ser gratuito y, en algunos casos, incluso ha
 
 ### 3. Beneficio
 
-Cada tonelada de residuos electrónicos puede contener hasta **300 gramos de oro**, además de **cobre, plata y otros metales**.  
+Cada tonelada de residuos electrónicos puede contener hasta **300 gramos de oro**, además de cobre, plata y otros metales.  
 Al reciclarlos, se evita la minería tradicional, que contamina mucho y consume grandes cantidades de agua y energía.  
 De hecho, **recuperar oro de aparatos usados puede ahorrar hasta un 95 % de la energía** que se necesitaría para extraerlo del subsuelo.
 
@@ -116,7 +116,7 @@ De hecho, **recuperar oro de aparatos usados puede ahorrar hasta un 95 % de la e
 
 Si más personas reciclaran sus aparatos electrónicos, se reducirían millones de toneladas de residuos tóxicos y aprovecharíamos materiales que ya existen, sin seguir agotando los recursos naturales.  
 
-Es una acción muy sencilla, de **bajo coste y con un impacto ambiental positivo real**, que ayuda a cerrar el ciclo de los materiales y a avanzar hacia una economía más circular y sostenible.
+Es una acción muy sencilla, de bajo coste y con un impacto ambiental positivo real, que ayuda a cerrar el ciclo de los materiales y a avanzar hacia una economía más circular y sostenible.
 
 ---
 
