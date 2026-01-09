@@ -91,32 +91,32 @@ Me parece una medida muy importante porque actualmente ya se ha **extraído alre
 
 ### 1. Facilidad de adopción
 
-En realidad, es **bastante fácil de poner en práctica**.  
-Solo hay que **separar los dispositivos electrónicos** que ya no usamos (como móviles viejos, ordenadores o cargadores) y **llevarlos a un punto limpio o centro de recogida autorizado**.  
-La única dificultad está en **acordarse de hacerlo** y no tirarlos a la basura normal por **comodidad o desconocimiento**.
+En realidad, es bastante fácil de poner en práctica.  
+Solo hay que **separar los dispositivos electrónicos** que ya no usamos (como móviles viejos, ordenadores o cargadores) y llevarlos a un punto limpio o centro de recogida autorizado.  
+La única dificultad está en acordarse de hacerlo y no tirarlos a la basura normal por comodidad o desconocimiento.
 
 ---
 
 ### 2. Coste
 
 El coste es **prácticamente cero** para el ciudadano.  
-El **reciclaje electrónico** suele ser gratuito y, en algunos casos, incluso hay **empresas o asociaciones** que ofrecen **descuentos o incentivos** si entregas tus dispositivos viejos.
+El **reciclaje electrónico** suele ser gratuito y, en algunos casos, incluso hay empresas o asociaciones que ofrecen descuentos o incentivos si entregas tus dispositivos viejos.
 
 ---
 
 ### 3. Beneficio
 
-Cada **tonelada de residuos electrónicos** puede contener **hasta 300 gramos de oro**, además de **cobre, plata y otros metales**.  
-Al reciclarlos, se **evita la minería tradicional**, que **contamina mucho** y **consume grandes cantidades de agua y energía**.  
+Cada tonelada de residuos electrónicos puede contener hasta **300 gramos de oro**, además de **cobre, plata y otros metales**.  
+Al reciclarlos, se evita la minería tradicional, que contamina mucho y consume grandes cantidades de agua y energía.  
 De hecho, **recuperar oro de aparatos usados puede ahorrar hasta un 95 % de la energía** que se necesitaría para extraerlo del subsuelo.
 
 ---
 
 ### 4. Impacto ambiental real
 
-Si más personas **reciclaran sus aparatos electrónicos**, se **reducirían millones de toneladas de residuos tóxicos** y aprovecharíamos **materiales que ya existen**, sin seguir **agotando los recursos naturales**.  
+Si más personas reciclaran sus aparatos electrónicos, se reducirían millones de toneladas de residuos tóxicos y aprovecharíamos materiales que ya existen, sin seguir agotando los recursos naturales.  
 
-Es una acción **muy sencilla, de bajo coste y con un impacto ambiental positivo real**, que **ayuda a cerrar el ciclo de los materiales** y a avanzar hacia una **economía más circular y sostenible**.
+Es una acción muy sencilla, de **bajo coste y con un impacto ambiental positivo real**, que ayuda a cerrar el ciclo de los materiales y a avanzar hacia una economía más circular y sostenible.
 
 ---
 
