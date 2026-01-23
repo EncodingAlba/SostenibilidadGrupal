@@ -22,11 +22,16 @@ title: "Sección 2: Economía circular y acciones sostenibles"
     - [2. Coste](#2-coste-2)
     - [3. Beneficio](#3-beneficio-2)
     - [4. Impacto ambiental real](#4-impacto-ambiental-real-2)
-  - [2.1.4 Acción de Pedro Martínez Herrero: Consumo alimentario circular y responsable](#214-acción-de-pedro-mh-alimentario-circular-y-responsable)
+  - [2.1.4 Acción de Pedro Martínez Herrero: Consumo alimentario circular y responsable](#214-acción-de-pedro-martínez-herrero-consumo-alimentario-circular-y-responsable)
     - [1. Facilidad de adopción](#1-facilidad-de-adopción-3)
     - [2. Coste](#2-coste-3)
     - [3. Beneficio](#3-beneficio-3)
     - [4. Impacto ambiental real](#4-impacto-ambiental-real-3)
+  - [2.1.5 Acción de Juan Fran: Implantar reuniones online para reducir desplazamientos](#215-acción-de-juan-fran-implantar-reuniones-online-para-reducir-desplazamientos)
+    - [1. Facilidad de adopción](#1-facilidad-de-adopción-4)
+    - [2. Coste](#2-coste-4)
+    - [3. Beneficio](#3-beneficio-4)
+    - [4. Impacto ambiental real](#4-impacto-ambiental-real-4)
 
 
 ## 2.1. Acción personal o profesional sostenible:
@@ -167,7 +172,29 @@ El compostaje devolvería nutrientes al suelo, mejorando su calidad y reduciendo
 
 Se trata de una acción **simple, de bajo coste y con un impacto ambiental positivo real**, que contribuye de forma directa a una **alimentación más sostenible**, a la **reducción de residuos** y al avance hacia una **economía circular y más sostenible**.
 
+### 2.1.5 Acción de Juan Fran: Implantar reuniones online para reducir desplazamientos
 
+El objetivo principal es evitar viajes que no aportan valor y reemplazarlos por alternativas digitales igual de eficaces, generando un impacto ambiental positivo y mejorando la eficiencia del tiempo en la oficina.
+
+Podemos analizar la acción basándonos en cuatro características clave:
+
+#### 1. Facilidad de adopción
+
+Esta medida tiene una muy facil adopción. La mayoría de oficinas ya cuentan con herramientas como Teams, Zoom o similares. Solo requiere establecer una **política interna** que priorice reuniones online cuando el desplazamiento no aporte valor añadido. No exige **cambios físicos en el espacio de trabajo.**
+
+#### 2. Coste
+
+El coste para la empresa sería **muy bajo** ya que se usan herramientas digitales que la empresa probablemente ya tiene como Microsoft Teams, Zoom, Google Meet o sistemas de videoconferencia incluidos en sus licencias habituales. En caso de necesitar algún elemento adicional (ej., una webcam, micrófono, etc.), **la inversión es mínima** comparada con otros proyectos tecnológicos.
+
+#### 3. Beneficio
+
+**Ahorro en desplazamientos:** menos gasto en gasolina, kilometraje, taxis, trenes o vuelos.
+**Ahorro de tiempo de trabajo:** al evitar viajes, el equipo dedica más horas a tareas productivas en lugar de transporte.
+**Optimización de salas físicas:** menos reuniones presenciales reduce la saturación de espacios y los gastos asociados a climatización, iluminación y limpieza.
+
+#### 4. Impacto ambiental real
+
+Esta medida **reduce emisiones de CO₂** asociadas a los desplazamientos en coche, moto o transporte público. En empresas medianas, sustituir reuniones presenciales por online puede disminuir **centenares de kg de CO₂** al año, especialmente si había viajes interurbanos. Disminuye también el consumo indirecto (papel, material de oficina, climatización de salas).
 
 
 [🏠 Inicio](../index.md) | [⬅ Sección anterior](seccion1.md) | [Sección siguiente ➡](seccion3.md)
