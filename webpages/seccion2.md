@@ -22,6 +22,11 @@ title: "Sección 2: Economía circular y acciones sostenibles"
     - [2. Coste](#2-coste-2)
     - [3. Beneficio](#3-beneficio-2)
     - [4. Impacto ambiental real](#4-impacto-ambiental-real-2)
+  - [2.1.4 Acción de Pedro Martínez Herrero: Consumo alimentario circular y responsable](#214-acción-de-pedro-mh-alimentario-circular-y-responsable)
+    - [1. Facilidad de adopción](#1-facilidad-de-adopción-3)
+    - [2. Coste](#2-coste-3)
+    - [3. Beneficio](#3-beneficio-3)
+    - [4. Impacto ambiental real](#4-impacto-ambiental-real-3)
 
 
 ## 2.1. Acción personal o profesional sostenible:
@@ -106,6 +111,63 @@ De hecho, **recuperar oro a partir de aparatos electrónicos puede ahorrar hasta
 Si un mayor número de personas reciclara correctamente sus aparatos electrónicos, se reducirían millones de toneladas de residuos tóxicos y se aprovecharían materiales ya existentes, evitando seguir agotando recursos naturales.
 
 Se trata de una acción **sencilla, de bajo coste y con un impacto ambiental positivo real**, que contribuye a cerrar el ciclo de los materiales y a avanzar hacia una **economía circular y más sostenible**.
+
+
+
+
+
+### 2.1.4 Acción de Pedro Martínez Herrero: Consumo alimentario circular y responsable
+
+El objetivo principal de esta acción es **reducir el impacto ambiental asociado a la alimentación diaria**, actuando en tres niveles complementarios:
+
+- **Disminuir el desperdicio alimentario**, planificando mejor las compras y aprovechando las sobras.  
+- **Compostar los residuos orgánicos** (restos de fruta, verdura, café, cáscaras, etc.) para convertirlos en abono natural.  
+- **Comprar productos locales y de temporada**, reduciendo el transporte, los envases y las emisiones asociadas.
+
+Esta acción encaja plenamente dentro del modelo de **economía circular**, ya que transforma un residuo (restos de comida) en un recurso útil (compost) y reduce la necesidad de producir, transportar y desechar alimentos innecesariamente.
+
+Podemos analizar la acción basándonos en cuatro características clave:
+
+#### 1. Facilidad de adopción
+
+Es una acción **relativamente fácil de implementar** a nivel doméstico.  
+Reducir el desperdicio alimentario solo requiere **planificar mejor las compras**, revisar la despensa antes de ir al supermercado y organizar los alimentos en la nevera según su fecha de caducidad.
+
+El compostaje puede realizarse con un **pequeño cubo doméstico** o una compostera en el balcón o jardín, sin necesidad de instalaciones complejas.  
+Comprar productos locales y de temporada es también sencillo, ya que están disponibles en **mercados, fruterías y comercios de proximidad**.
+
+La principal dificultad es el **cambio de hábitos**, especialmente en lo relacionado con la planificación y la constancia para separar los residuos orgánicos.
+
+#### 2. Coste
+
+El coste económico es **bajo o prácticamente nulo**.  
+Reducir el desperdicio alimentario no solo no cuesta dinero, sino que **genera un ahorro directo** al comprar solo lo necesario.
+
+Un cubo de compostaje doméstico tiene un coste reducido y es una **inversión única**.  
+Comprar productos locales y de temporada suele ser incluso **más barato** que comprar productos importados o fuera de temporada.
+
+No implica consumo energético adicional ni gastos de mantenimiento significativos.
+
+#### 3. Beneficio
+
+Aproximadamente **un 30 % de los alimentos producidos** acaba desperdiciándose.  
+Reducir este desperdicio supone un ahorro muy significativo de **agua, energía, suelo y emisiones de CO₂**.
+
+Cada hogar puede evitar tirar **decenas de kilos de comida al año**, lo que se traduce en un menor gasto económico.  
+Además, el compost generado puede sustituir fertilizantes químicos para plantas o huertos, cerrando el ciclo de los nutrientes.
+
+Consumir productos locales y de temporada reduce notablemente la **huella de carbono alimentaria**, al disminuir el transporte y la refrigeración prolongada.
+
+#### 4. Impacto ambiental real
+
+Si una parte significativa de la población adoptara esta acción, se reducirían **millones de toneladas de residuos orgánicos** que hoy acaban en vertederos, donde generan **metano**, un gas de efecto invernadero muy potente.
+
+Además, se evitaría producir y transportar una enorme cantidad de alimentos que nunca llegan a consumirse.  
+El compostaje devolvería nutrientes al suelo, mejorando su calidad y reduciendo la necesidad de fertilizantes sintéticos.
+
+Se trata de una acción **simple, de bajo coste y con un impacto ambiental positivo real**, que contribuye de forma directa a una **alimentación más sostenible**, a la **reducción de residuos** y al avance hacia una **economía circular y más sostenible**.
+
+
 
 
 [🏠 Inicio](../index.md) | [⬅ Sección anterior](seccion1.md) | [Sección siguiente ➡](seccion3.md)
