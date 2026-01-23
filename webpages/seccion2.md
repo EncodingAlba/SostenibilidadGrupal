@@ -17,13 +17,11 @@ title: "Sección 2: Economía circular y acciones sostenibles"
     - [2. Coste](#2-coste-1)
     - [3. Beneficio](#3-beneficio-1)
     - [4. Impacto ambiental real](#4-impacto-ambiental-real-1)
-  - [2.1.3 Acción de Alvaro : Reciclaje de residuos electrónicos](#acción-de-alvaro--reciclaje-de-residuos-electrónicos)
-  - [Reciclaje de residuos electrónicos y recuperación de metales valiosos](#reciclaje-de-residuos-electrónicos-y-recuperación-de-metales-valiosos)
-- [Análisis de la acción en cuatro puntos clave](#análisis-de-la-acción-en-cuatro-puntos-clave)
-  - [1. Facilidad de adopción](#1-facilidad-de-adopción-2)
-  - [2. Coste](#2-coste-2)
-  - [3. Beneficio](#3-beneficio-2)
-  - [4. Impacto ambiental real](#4-impacto-ambiental-real-2)
+  - [2.1.3 Acción de Álvaro: Reciclaje de residuos electrónicos](#213-acción-de-álvaro-reciclaje-de-residuos-electrónicos)
+    - [1. Facilidad de adopción](#1-facilidad-de-adopción-2)
+    - [2. Coste](#2-coste-2)
+    - [3. Beneficio](#3-beneficio-2)
+    - [4. Impacto ambiental real](#4-impacto-ambiental-real-2)
 
 
 ## 2.1. Acción personal o profesional sostenible:
