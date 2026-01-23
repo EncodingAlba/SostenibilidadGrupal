@@ -80,7 +80,7 @@ Extremadamente positivo y sostenible. Al no talar el árbol principal, se preser
 
 ### 2.1.3 Acción de Álvaro: Reciclaje de residuos electrónicos
 
-El objetivo principal de esta acción es **reciclar los residuos electrónicos** de equipos obsoletos o estropeados para **recuperar metales valiosos como el oro**, en lugar de seguir extrayéndolos del suelo.
+El objetivo principal de esta acción es reciclar los residuos electrónicos de equipos obsoletos o estropeados para **recuperar metales valiosos como el oro**, en lugar de seguir extrayéndolos del suelo.
 
 Esta medida es especialmente relevante porque actualmente ya se ha **extraído alrededor del 80 % del oro disponible en la corteza terrestre**, por lo que resulta mucho más **sostenible reutilizar los metales que ya existen** en los aparatos electrónicos desechados.
 
