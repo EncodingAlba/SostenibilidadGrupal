@@ -21,15 +21,11 @@ title: "Sección 1: Los Sumerios y su relación con la sostenibilidad"
   - [Reflexión final](#reflexión-final)
 - [1.5. Análisis con respecto a los ODS (Objetivos de Desarrollo Sostenible)](#15-análisis-con-respecto-a-los-ods-objetivos-de-desarrollo-sostenible)
   - [1.5.1. ODS relevantes para el caso](#151-ods-relevantes-para-el-caso)
-  - [1.5.2. Análisis, reflexión y políticas](#152-análisis-reflexión-y-políticas)
-    - [Problemas con Sostenibilidad](#problemas-con-sostenibilidad)
-      - [1º Salinización del suelo](#1º-salinización-del-suelo)
-      - [2º Sequías y variaciones del clima](#2º-sequías-y-variaciones-del-clima)
-      - [3º Crisis Agrícola](#3º-crisis-agrícola)
-  - [1.5.3. Consecuencias y transición hacia la (in)sostenibilidad](#153-consecuencias-y-transición-hacia-la-insostenibilidad)
+  - [1.5.2. El caso sumerio desde el marco ODS](#152-el-caso-sumerio-desde-el-marco-ods)
+  - [1.5.3. Aprendizajes para la sostenibilidad actual](#153-aprendizajes-para-la-sostenibilidad-actual)
 - [1.6. Los desafíos de la civilización sumeria](#16-los-desafíos-de-la-civilización-sumeria)
   - [1.6.1 Entorno natural y riesgos](#161-entorno-natural-y-riesgos)
-  - [1.6.2 Entorno natural y riesgos](#162-entorno-natural-y-riesgos)
+  - [1.6.2 Entorno social y conflictos](#162-entorno-social-y-conflictos)
   - [1.6.3 Mitología y visión del mundo](#163-mitología-y-visión-del-mundo)
   - [1.6.4 Innovaciones y límites del progreso](#164-innovaciones-y-límites-del-progreso)
   - [1.6.5 Decadencia y legado](#165-decadencia-y-legado)
@@ -44,6 +40,8 @@ Los sumerios se asentaron en la Baja Mesopotamia, una fértil región conocida c
   <img src="webimages/mapa.PNG" alt="Descripción" width="700">
 </p>
 
+La civilización sumeria es un ejemplo de lo visto en clase el día 2 con el concepto de sostenibilidad, concebido como un equilibrio en el tiempo entre lo social, lo ambiental y lo económico. Sumer representa esto: una civilización que consigue sostenerse durante siglos, pero que finalmente rompe ese equilibrio por convertirse en "insostenible". En las secciones siguientes veremos cuáles fueron los motivos que llevaron al fin a esta civilización.
+
 ## 1.2. Obtención de recursos
 
 ### ¿Cómo obtenían materiales, alimentos, agua, etc.?
@@ -53,6 +51,10 @@ Los sumerios obtenían recursos de muchas maneras, mantenían una producción de
 ### ¿Era sostenible?
 
 La agricultura sumeria dependía mucho del riego, efectuándose a través del uso de canales, estanques, diques y depósitos de agua. Las frecuentes y violentas inundaciones del Tigris y, en menor medida, del Éufrates hacían que los canales necesitaran de reparación frecuente y de la continua extracción del limo, y el reemplazo continuo de los marcadores de inspección y mojones. El gobierno ordenaba a esclavos, condenados a trabajos forzados, y determinados ciudadanos la tarea de trabajar en los canales, aunque los ricos podían excluirse de esta tarea.
+
+Esta idea conecta con la idea de la rebanada de pan y el moho que vimos en la clase 4 de la asignatura. Mediante la agricultura intensiva y el riego, los sumerios consumían los recursos finitos de forma intensiva. En este caso el pan serían los suelos fértiles y el agua y el moho sería el crecimiento agrícola y por consiguiente el poblacional. Los límites de esta sociedad los marcaban el suelo y el agua. 
+
+Además, la salinización del suelo también puede compararse con el tema del día 9, el coste oculto de un producto, ya que la salinización fueron los efectos invisibles del riego intensivo. Es un buen ejemplo de una decisión que parece eficiente a corto plazo pero no a largo.
 
 ## 1.3. Obtención de energía
    
@@ -72,6 +74,8 @@ Desarrollaron sistemas de canales y riego que aprovechaban el flujo de agua de l
 
 Gracias a estas fuentes de energía, los sumerios pudieron desarrollar una civilización organizada, eficiente y capaz de sostener a grandes poblaciones, demostrando cómo el uso equilibrado de recursos locales puede favorecer la sostenibilidad a largo plazo.
 
+Este punto conecta con la reflexión del día 12, sobre la huella ecológica y el consumo. Podemos observar cómo el caso de los sumerios es totalmente distinto al nuestro, ya que su fuente principal de energía era humana, animal y del agua, por lo tanto era energía totalmente local y renovable. En este sentido puede parecer que habrían sido más sostenibles, ya que nuestra huella ecológica se mide actualmente según la energía consumida, sin embargo, en su caso se debería haber medido en la calidad del suelo para producir, ya que era la mayor explotación de recursos que realizaban. 
+
 ## 1.4. Posibilidades de supervivencia
 
 ### ¿Cómo se adaptaban?
@@ -90,44 +94,42 @@ Durante siglos, los sumerios lograron sostener su civilización gracias a su ing
 
 El caso de los sumerios nos enseña que el progreso técnico, por sí solo, no garantiza la sostenibilidad de una civilización. Su éxito inicial en el control del agua y la expansión agrícola se convirtió, con el tiempo, en su principal amenaza al no equilibrar el uso de los recursos con su capacidad de renovación. Hoy enfrentamos retos similares: la sobreexplotación de suelos, la gestión del agua y la desigualdad en el acceso a los recursos siguen siendo problemas globales. Aprender de los errores del pasado, como el de Sumer, nos recuerda que el verdadero desarrollo sostenible implica mantener un equilibrio entre el bienestar humano, la estabilidad social y el respeto por los límites naturales del entorno.
 
+Este apartado está relacionado con la reflexión del día 6, sobre las estrategias de crecimiento poblacional R y K. Sumer actuó como una sociedad K, buscando estabilidad, invirtiendo en infraestructuras y siendo muy sensible a los cambios ambientales, lo que finalmente llevó a su declive. 
+
 ## 1.5. Análisis con respecto a los ODS (Objetivos de Desarrollo Sostenible)
 
+Aunque los Objetivos de Desarrollo Sostenible (ODS) son un marco contemporáneo, permiten analizar la civilización sumeria desde una perspectiva actual, relacionando los problemas ya descritos en secciones anteriores con desafíos que siguen presentes en la sociedad actual. Este enfoque no pretende juzgar a los sumerios con criterios modernos, sino utilizar los ODS como herramienta de interpretación y aprendizaje.
+
 ### 1.5.1. ODS relevantes para el caso
-- Lista de ODS que se pueden relacionar con esta civilización o sistema.
 
-### 1.5.2. Análisis, reflexión y políticas
-- ¿Implementaron medidas sostenibles?
-- ¿Qué problemas surgieron?
-#### Problemas con Sostenibilidad
+A partir de los problemas ambientales, sociales y productivos previamente analizados, se pueden establecer relaciones claras entre la civilización sumeria y los siguientes ODS:
 
-Los Sumerios fueron pioneros en el uso del agua para la agricultura, pero con el tiempo surgieron varios problemas de sostenibilidad que afectaron su producción y sus ciudades.
+- **ODS 2: Hambre cero**  
+  La crisis agrícola derivada de la degradación del suelo y la disminución de la productividad afectó directamente a la seguridad alimentaria de la población sumeria.
 
-##### 1º Salinización del suelo
+- **ODS 6: Agua limpia y saneamiento**  
+  La dependencia absoluta de los ríos Tigris y Éufrates y la gestión centralizada del agua fueron factores determinantes tanto para el desarrollo como para los conflictos y desequilibrios sociales.
 
-- Al usar sistemas de riego intensivos, el agua al evaporarse dejaba sales en la tierra.
-- Como el clima era muy cálido y seco, la sal se acumulaba cada vez más.
-- Con los años, los suelos perdieron fertilidad y muchas zonas se volvieron difíciles de cultivar.
+- **ODS 12: Producción y consumo responsables**  
+  El modelo agrícola intensivo, orientado a maximizar la producción sin permitir la regeneración del suelo, refleja una explotación de recursos no sostenible a largo plazo.
 
-##### 2º Sequías y variaciones del clima
+- **ODS 13: Acción por el clima**  
+  Las sequías y variaciones climáticas agravaron los problemas existentes, evidenciando la vulnerabilidad de la civilización frente a cambios ambientales.
 
-- Dependían totalmente del agua de los ríos Tigris y Éufrates.
-- Cuando había menos lluvias o los ríos bajaban su nivel, los cultivos se secaban.
-- Las sequías y el calor aumentaban los efectos de la salinización.
-- Además, el uso continuo de la tierra sin descanso reducía su capacidad para retener agua.
+- **ODS 15: Vida de ecosistemas terrestres**  
+  La salinización y el deterioro progresivo de los suelos fértiles muestran una alteración del ecosistema terrestre causada por la actividad humana.
 
-##### 3º Crisis Agrícola
+### 1.5.2. El caso sumerio desde el marco ODS
 
-- La combinación de suelos salinos, sequías y sobreexplotación redujo la productividad.
-- Había menos cosechas y escasez de alimentos.
-- Algunas zonas quedaron abandonadas y la población tuvo que desplazarse.
+Los problemas que afrontó la civilización sumeria pueden entenderse como una falta de equilibrio entre el aprovechamiento de los recursos y su capacidad de regeneración. Desde la perspectiva de los ODS, se observa que el desarrollo técnico y organizativo no fue acompañado de mecanismos de corrección que garantizaran la sostenibilidad a largo plazo.
 
-Estos tres problemas debilitaron varias ciudades sumerias.
+La ausencia de planificación ambiental, de indicadores de seguimiento y de una gestión adaptativa del territorio impidió reaccionar a tiempo ante los primeros signos de degradación. Este patrón se repite en muchos sistemas actuales, lo que refuerza la utilidad de los ODS como marco para anticipar riesgos y orientar decisiones hacia modelos más sostenibles.
 
-- ¿Qué decisiones se tomaron o no se tomaron?
+### 1.5.3. Aprendizajes para la sostenibilidad actual
 
-### 1.5.3. Consecuencias y transición hacia la (in)sostenibilidad
-- ¿Qué llevó a la insostenibilidad?
-- ¿Podían haber hecho algo diferente?
+El análisis del caso sumerio desde los ODS pone de manifiesto que los problemas de sostenibilidad no son nuevos, sino estructurales. La experiencia de Sumer muestra que el crecimiento sin límites, incluso cuando se basa en avances técnicos, conduce a la insostenibilidad si no se respetan los límites del entorno natural.
+
+Este enfoque permite entender los ODS no solo como objetivos políticos modernos, sino como una respuesta a errores históricos repetidos. Relacionar una civilización antigua con estos objetivos refuerza la idea de que la sostenibilidad es una condición necesaria para la supervivencia de cualquier sociedad, independientemente de la época o del nivel tecnológico.
 
 ## 1.6. Los desafíos de la civilización sumeria
 
@@ -146,7 +148,7 @@ Estos tres problemas debilitaron varias ciudades sumerias.
 </p>
 
 
-### 1.6.2 Entorno natural y riesgos
+### 1.6.2 Entorno social y conflictos
 
  - La escasez de recursos y la concentración del poder en templos y élites provocaron tensiones internas y rivalidades entre ciudades-estado
 
@@ -198,6 +200,8 @@ Estos tres problemas debilitaron varias ciudades sumerias.
 </p>
 
  - Sirve como advertencia y enseñanza sobre sostenibilidad y gestión de recursos: sin equilibrio, incluso una civilización avanzada puede colapsar
+
+Este punto conecta con la última reflexión de nuestra bitácora, el día 16 en el que hablamos sobre el plan de sostenibilidad. Lo que finalmente llevó a la decadencia a esta civilización fue la falta de indicadores y planes de acción, justo lo que marca hoy en día un plan de sostenibilidad y estándares como las normas ISO, y que es imprescindible para sobrevivir como sistema, un plan de acción para rectificar lo que se hace mal. 
 
 ---
 
